@@ -20,7 +20,7 @@ Only reports and analysis using python
     - Analyze each segment's characteristics (e.g., average income).
     - Devise actionable strategies based on segment insights².
 
-Source: Conversation with Bing, 2/13/2024
+refference
 (1) https://www.coursera.org/articles/customer-segmentation.
 (2)https://medium.com/@ngamzedeniz/a-sample-exploratory-data-analysis-eda-process-using-python-for-customer-segmentation-data-95c2146d3ab4.
 (3) https://www.kaggle.com/code/thiagopanini/customer-segmentation-eda-and-kmeans.
